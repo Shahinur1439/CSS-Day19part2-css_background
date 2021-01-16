@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px 0px;
+    text-align: center;
+}
+.menu{
+    background-color: crimson;
+    
+}
+.menu ul li{
+    list-style: none;
+    display: inline-block;
+}
+.menu ul li a{
+    display: inline-block;
+    color: cornsilk;
+    padding: 15px 30px;
+}
+.backgroun{
+    background-image: url(banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    padding: 200px 0px;
+    
+}
